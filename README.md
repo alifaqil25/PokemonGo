@@ -24,3 +24,5 @@ Convert Coin
 Pokemon Details
 Catch Pokemon
 Show Current Coins and Weapons
+
+Visit Link for More Details --> https://docs.google.com/document/d/e/2PACX-1vSW6A8aTyNiuYqrF1ccY7OIDSNXINYTLu22XXvhdgPucQzYh36Vjc2jjqcnWlGyywdPHQsfKSfHuBS3/pub
