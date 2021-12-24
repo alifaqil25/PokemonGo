@@ -1,0 +1,207 @@
+# depslib dependency file v1.0
+1592190355 source:c:\users\user\documents\programming\pokemongo\account.cpp
+	"Account.h"
+	<string>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<unistd.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1592140515 c:\users\user\documents\programming\pokemongo\account.h
+	<string>
+	"Shop.h"
+
+1592202466 c:\users\user\documents\programming\pokemongo\shop.h
+	"Player.h"
+
+1592599538 c:\users\user\documents\programming\pokemongo\player.h
+	<string>
+	"Node.h"
+
+1592597515 c:\users\user\documents\programming\pokemongo\node.h
+	<string>
+
+1592140590 source:c:\users\user\documents\programming\pokemongo\createprofile.cpp
+	"CreateProfile.h"
+	"Account.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<cctype>
+	<windows.h>
+	<ctime>
+
+1592122447 c:\users\user\documents\programming\pokemongo\createprofile.h
+	<string>
+
+1592631045 source:c:\users\user\documents\programming\pokemongo\fight.cpp
+	"Fight.h"
+	"Shop.h"
+	<conio.h>
+	<stdlib.h>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<time.h>
+
+1592631045 c:\users\user\documents\programming\pokemongo\fight.h
+	<string>
+	"PokemonList.h"
+	"Player.h"
+
+1592128556 c:\users\user\documents\programming\pokemongo\pokemonlist.h
+	<string>
+	<iostream>
+
+1592633080 source:c:\users\user\documents\programming\pokemongo\main.cpp
+	"Account.h"
+	"PokemonList.h"
+	"Shop.h"
+	"CreateProfile.h"
+	"Player.h"
+	"Fight.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<unistd.h>
+	<windows.h>
+
+1592600459 source:c:\users\user\documents\programming\pokemongo\player.cpp
+	"Player.h"
+	<stdlib.h>
+	<cstdlib>
+	<fstream>
+	<vector>
+	<string>
+	<iostream>
+
+1592195670 source:c:\users\user\documents\programming\pokemongo\pokemonlist.cpp
+	"PokemonList.h"
+	"Fight.h"
+	<cstdlib>
+	<stdlib.h>
+	<iomanip>
+	<conio.h>
+
+1592633109 source:c:\users\user\documents\programming\pokemongo\shop.cpp
+	"Shop.h"
+	<stdlib.h>
+	<conio.h>
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	"Account.h"
+
+1592190355 source:d:\user\onedrive\documents\programming\pokemongo\account.cpp
+	"Account.h"
+	<string>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<unistd.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1592140515 d:\user\onedrive\documents\programming\pokemongo\account.h
+	<string>
+	"Shop.h"
+
+1592202466 d:\user\onedrive\documents\programming\pokemongo\shop.h
+	"Player.h"
+
+1592599538 d:\user\onedrive\documents\programming\pokemongo\player.h
+	<string>
+	"Node.h"
+
+1592597515 d:\user\onedrive\documents\programming\pokemongo\node.h
+	<string>
+
+1592633907 source:d:\user\onedrive\documents\programming\pokemongo\createprofile.cpp
+	"CreateProfile.h"
+	"Account.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<cctype>
+	<windows.h>
+	<ctime>
+
+1592122447 d:\user\onedrive\documents\programming\pokemongo\createprofile.h
+	<string>
+
+1592631045 source:d:\user\onedrive\documents\programming\pokemongo\fight.cpp
+	"Fight.h"
+	"Shop.h"
+	<conio.h>
+	<stdlib.h>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<time.h>
+
+1592631045 d:\user\onedrive\documents\programming\pokemongo\fight.h
+	<string>
+	"PokemonList.h"
+	"Player.h"
+
+1592128556 d:\user\onedrive\documents\programming\pokemongo\pokemonlist.h
+	<string>
+	<iostream>
+
+1592633080 source:d:\user\onedrive\documents\programming\pokemongo\main.cpp
+	"Account.h"
+	"PokemonList.h"
+	"Shop.h"
+	"CreateProfile.h"
+	"Player.h"
+	"Fight.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<unistd.h>
+	<windows.h>
+
+1592600459 source:d:\user\onedrive\documents\programming\pokemongo\player.cpp
+	"Player.h"
+	<stdlib.h>
+	<cstdlib>
+	<fstream>
+	<vector>
+	<string>
+	<iostream>
+
+1592195670 source:d:\user\onedrive\documents\programming\pokemongo\pokemonlist.cpp
+	"PokemonList.h"
+	"Fight.h"
+	<cstdlib>
+	<stdlib.h>
+	<iomanip>
+	<conio.h>
+
+1592633109 source:d:\user\onedrive\documents\programming\pokemongo\shop.cpp
+	"Shop.h"
+	<stdlib.h>
+	<conio.h>
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	"Account.h"
+
